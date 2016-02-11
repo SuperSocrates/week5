@@ -13,8 +13,8 @@ def modify(z):
 
 print(x)
 
-display()
-print(x)
+# display(x)
+# print(x)
 
 modify(x)
 print(x)
